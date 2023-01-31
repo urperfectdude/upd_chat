@@ -1,1 +1,1 @@
-const secretToken = "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";
+const secretToken = "sk-ABCDEFGH INPUT YOUR OWN KEY";
